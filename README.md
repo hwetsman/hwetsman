@@ -15,9 +15,14 @@ learn how to take the industry, I'm your guy. But until anyone calls, I'm going 
 
 📫 How to reach me: howard@tocdr.com
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
+<!-- src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" 
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+-->
+
 <!--
 **hwetsman/hwetsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
