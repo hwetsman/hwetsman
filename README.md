@@ -15,6 +15,7 @@ learn how to take the industry, I'm your guy. But until anyone calls, I'm going 
 
 📫 How to reach me: howard@tocdr.com
 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <!--
 **hwetsman/hwetsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
