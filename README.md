@@ -26,6 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmar
 </details>
 <!-- src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+Mermaid
 -->
 
 <!--
